@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\Curso Web"
+		},
+		{
+			"path": "..\\web site"
+		},
+		{
+			"path": "..\\Fairy Heart"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aquivo de teste"
+	}
+}
